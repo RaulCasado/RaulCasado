@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### Education:
-- Bachelor's Degree
+- Currently I am studying in 42 Málaga.
+- DAW (Web development)
 - Proficient in JavaScript, CSS, TypeScript, PHP, Laravel, Docker, HTML, Git, SQL, MVC
 
 ### Self-Taught Skills:
