@@ -81,7 +81,6 @@ new programming languages and tools, well assuming my computer doesn't explode f
 ## 🛠️ Projects
 
 Check out my GitHub repositories to explore my work and projects! Feel free to reach out if you have any questions.
+https://rcasado.me/ check out my personal website!
 
 ---
-
-
