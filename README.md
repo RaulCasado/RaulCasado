@@ -23,6 +23,12 @@ Here are some of the technologies I work with:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+![RaulCasado's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulCasado&show_icons=true&theme=radical)
+
+
 ---
 
 ## 🎓 Education
@@ -55,7 +61,12 @@ Here are some of the technologies I work with:
 
 ## 👨‍💻 About Me
 
-I began programming out of a fascination with how technology can solve real-world problems. My journey started with web development and has expanded to various programming languages and frameworks. I'm always eager to tackle new challenges, learn, and grow.
+I got into programming because I didn't want to be just a user of technology,
+I wanted to create it. I started with web development where I learned the basics
+of HTML, CSS, and JavaScript, making webs (most of them were so ugly 😅).
+Since then, I have been learning new technologies and tools to improve my skills, 
+and I'm currently studying at 42 Málaga, a programming school where I'm learning
+new programming languages and tools, well assuming my computer doesn't explode first.
 
 ---
 
@@ -72,3 +83,5 @@ I began programming out of a fascination with how technology can solve real-worl
 Check out my GitHub repositories to explore my work and projects! Feel free to reach out if you have any questions.
 
 ---
+
+
